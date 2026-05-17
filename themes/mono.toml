@@ -1,0 +1,13 @@
+name = "mono"
+
+prompt = ""
+continuation_prompt = ""
+result = ""
+error = ""
+
+banner_primary = ""
+banner_secondary = ""
+banner_title = ""
+banner_style = "plain"
+
+reset = ""
